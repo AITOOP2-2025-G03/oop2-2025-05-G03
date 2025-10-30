@@ -101,7 +101,7 @@ output_images/lecture05_01_k22999.png
 プロジェクトルートで以下を実行：
 
 ```bash
-python src/<作業者ID>.py
+python main.py
 ```
 
 加工結果は自動的に `output_images/` フォルダに保存されます。
